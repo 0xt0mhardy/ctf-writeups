@@ -25,13 +25,14 @@
 
 * The *nm* command lists all the symbols.
 
- <img width="1257" height="667" alt="screen2" src="https://github.com/user-attachments/assets/8d285d12-0807-41e8-bbef-3a5a852f655c" />
+<img width="808" height="664" alt="screen3" src="https://github.com/user-attachments/assets/a23e88a1-70c7-4955-b78c-243908efdbec" />
 
 * There is no **win()** function in this challenge, but notice that there is a function called **duck()**.
 
 * Let's use *gdb* to analyze the binary!
 
 <img width="1257" height="667" alt="screen2" src="https://github.com/user-attachments/assets/018cfeb2-e319-47da-bee2-d18decb6a471" />
+
 
 ### Analyzing main function
 
